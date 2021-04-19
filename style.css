@@ -1,0 +1,41 @@
+body{
+    background-color: antiquewhite;
+}
+.titulo { 
+    text-align: center;
+    font-size: 40px;
+    color:blue;
+    text-decoration: underline;   
+    text-transform: uppercase;
+}
+p {
+
+    background-color: lightgrey;
+   
+    color: blue;
+   
+   }
+
+.contenedor {
+    width: 120rem;
+    margin: 0 auto;
+}
+.nav-bg{
+    background-color: cadetblue;
+}
+
+   .navegacion-principal {
+    
+
+}
+.navegacion-principal {
+   background-color: aqua;
+}
+
+p.especial {
+
+    background-color: lightgrey;
+   
+    color: green;
+   
+   }
