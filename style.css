@@ -12,7 +12,7 @@ p {
 
     background-color: lightgrey;
    
-    color: blue;
+    color: darkgray;
    
    }
 
@@ -21,20 +21,13 @@ p {
     margin: 0 auto;
 }
 .nav-bg{
-    background-color: cadetblue;
+    background-color: rgb(151, 163, 163);
 }
 
 .navegacion-principal {
-   background-color: aqua;
+   background-color: rgb(118, 124, 124);
 }
 
-p.especial {
-
-    background-color: lightgrey;
-   
-    color: green;
-   
-   }
 
    html, body {
     margin: 0px;
